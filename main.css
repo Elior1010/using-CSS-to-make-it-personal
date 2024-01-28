@@ -1,0 +1,30 @@
+/* For the body */
+body {
+    background-color: #f0f0f0; /* Example background color */
+    color: #333333; /* Example text color */
+}
+
+/* For the navigation bar */
+nav {
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+/* For the footer */
+footer {
+    text-align: center;
+    margin-right: 200px;
+}
+
+/* For the #memeImage */
+#memeImage {
+    margin-right: 200px;
+}
+
+/* For the header */
+header {
+    text-align: center;
+}
